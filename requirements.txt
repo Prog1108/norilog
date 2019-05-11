@@ -1,0 +1,8 @@
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+# Editable Git install with no remote (norilog==1.0.0)
+-e /Users/sekitayu/Desktop/Python_プロフェッショナル/work/Chapter03/norilog
+Werkzeug==0.15.2
